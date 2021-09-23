@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471281348041",
+    "project_id": "fir-auth-96370",
+    "storage_bucket": "fir-auth-96370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471281348041:android:37d0046ebf380672c9cc18",
+        "android_client_info": {
+          "package_name": "com.sagalang.loginregisterforgotpassworddemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471281348041-uajj1e1686oubievgqi8u1b0qungvac8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sagalang.loginregisterforgotpassworddemo",
+            "certificate_hash": "c07b6448e403bb852b544d9a8a2b4905af3851b5"
+          }
+        },
+        {
+          "client_id": "471281348041-jsv07f9jflnjqg9b5mdtiengf79sv8s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRXItYmh8hxQXc5jMLTFIpb-8yn8JHUcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471281348041-jsv07f9jflnjqg9b5mdtiengf79sv8s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
